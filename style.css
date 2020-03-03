@@ -47,6 +47,12 @@
     border: none;
     box-shadow: 5px 5px 10px gray;
 }
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: cyanblue;
+}
 
 footer{
     text-align: center;
